@@ -4,6 +4,7 @@ import { Story, Meta } from "@storybook/react";
 // import Legend, { LegendProps } from "./Legend";
 import { Legend, ILegendProps } from "./Legend";
 
+// add comment here
 export default {
   title: "Top/Legend",
   component: Legend,
